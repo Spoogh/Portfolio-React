@@ -1,22 +1,33 @@
-import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
-import Col from 'react-bootstrap/Col';
-import React from 'react';
-import Row from 'react-bootstrap/Row';
-import logo from '../assets/images/goonblin.png'
 import Container from 'react-bootstrap/Container';
-import Aboutme from './aboutme';
+import Navbar from 'react-bootstrap/Navbar';
+import logo from '../assets/images/goonblin.png'
+import Nav from 'react-bootstrap/Nav';
+import { Link } from 'react-router-dom';
+import '../index.css';
 
-const Header = () => {
-  return (
-    <Container >
-    <Row bg="dark" variant="dark" >
-        <Col xs={5}><img  width= "500" src={logo}></img></Col>
-        <Col xs={5}><Aboutme ></Aboutme> </Col>
-        
-      </Row>
-      </Container>
-  );
-};
+function Navi() {
+ 
+    return (
+        <>
+         <div>
+          <Navbar className='dark' variant="dark">
+            <Container>
+              <Link to="/" >
+                {' '}
+                <h1 className ="d-inline-block align-top name noblue">Joshua Flores</h1>
+              </Link>
+              
+            <Link to="/projects"><h2 className ="d-inline-block align-top noblue">Projects </h2> </Link>
+            
+            <Link to = "/resume">
+              <h2 className ="d-inline-block align-top m-20 noblue" > Contact </h2>
+            </Link>
+          
+            </Container>
+          </Navbar>
+          </div>
+        </>
+      );
+}
 
-export default Header;
+export default Navi;
