@@ -1,6 +1,4 @@
 import './App.css';
-import BucketList from './components/BucketList';
-import Picandbio from './components/info';
 import Navi from './components/header';
 import Footer from './components/footer';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';

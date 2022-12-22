@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React/static/css/main.570c668a.chunk.css",
+    "main.js": "/Portfolio-React/static/js/main.1b36aec0.chunk.js",
+    "main.js.map": "/Portfolio-React/static/js/main.1b36aec0.chunk.js.map",
+    "runtime-main.js": "/Portfolio-React/static/js/runtime-main.92daa889.js",
+    "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.92daa889.js.map",
+    "static/css/2.f26e749f.chunk.css": "/Portfolio-React/static/css/2.f26e749f.chunk.css",
+    "static/js/2.458c48ab.chunk.js": "/Portfolio-React/static/js/2.458c48ab.chunk.js",
+    "static/js/2.458c48ab.chunk.js.map": "/Portfolio-React/static/js/2.458c48ab.chunk.js.map",
+    "index.html": "/Portfolio-React/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "/Portfolio-React/static/css/2.f26e749f.chunk.css.map",
+    "static/css/main.570c668a.chunk.css.map": "/Portfolio-React/static/css/main.570c668a.chunk.css.map",
+    "static/js/2.458c48ab.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.458c48ab.chunk.js.LICENSE.txt",
+    "static/media/Garden2.b2d2f94a.gif": "/Portfolio-React/static/media/Garden2.b2d2f94a.gif",
+    "static/media/ME.116643d8.png": "/Portfolio-React/static/media/ME.116643d8.png",
+    "static/media/Redwood.651ee117.gif": "/Portfolio-React/static/media/Redwood.651ee117.gif",
+    "static/media/TeamGenerator.04dd5246.png": "/Portfolio-React/static/media/TeamGenerator.04dd5246.png",
+    "static/media/ecommercegif.249ade2e.gif": "/Portfolio-React/static/media/ecommercegif.249ade2e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92daa889.js",
+    "static/css/2.f26e749f.chunk.css",
+    "static/js/2.458c48ab.chunk.js",
+    "static/css/main.570c668a.chunk.css",
+    "static/js/main.1b36aec0.chunk.js"
+  ]
+}
