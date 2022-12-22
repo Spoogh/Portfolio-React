@@ -7,4 +7,6 @@ unfortunately some of the things(the project cards) rendered pretty janky thanks
 ## Technology 
 This was created using React Bootstrap
 
+## https://spoogh.github.io/Portfolio-React/
+
 
