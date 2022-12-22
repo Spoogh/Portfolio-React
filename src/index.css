@@ -3,9 +3,12 @@
   --dark: #1D1F21 ;
   --light: #E6FAFC;
   --accent: rgb(95, 47, 95);
-
+ 
 
 }
+
+
+
 a{
   color: var(--light);
   text-decoration: none;
@@ -92,9 +95,16 @@ footer a{
 .projectimg:hover {
   /* styles for when the mouse hovers over the image */
   filter: blur(0);
- 
+  transition: 0.5s;
   background-position: center;
 }
+
+.fadein {
+ 
+}
+
+
+
 
 
 

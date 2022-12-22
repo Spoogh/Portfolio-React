@@ -10,7 +10,7 @@ function ProjCard(props) {
   return (
     // <Row xs={1} md={3} className="g-4 ">
       // {Array.from({ length: 1 }).map((_, idx) => (
-         <Col md={6} className="mt-3">
+         <Col md={6} className="mt-3 slidein">
           <Card  className='project shadow' >
            
           <a href ={props.link}><Card.Img variant="top" src={props.image} className='projectimg' target='_blank'/></a> 

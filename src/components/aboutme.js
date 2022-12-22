@@ -17,13 +17,12 @@ function Aboutme() {
         >
           <Card.Header></Card.Header>
           <Card.Body>
-            <Card.Title><h2> About me!</h2> </Card.Title>
+            <Card.Title><h2> About me</h2> </Card.Title>
             <Card.Text>
-            I'm a creative full-stack developer and multi-hyphenate who loves learning and creating new things.
-
-            The experience a person has using any media should be easy, enjoyable, and sometimes even surprising.
-
-            Thanks for stopping by and please reach out to say hello.
+            <p>I'm a full-stack developer, former mechanic and US Airman. I just graduated from the UTA Full Stack Flex Coding Bootcamp!.</p>
+            <p>I love learning new things and I'm good at adapting to new environments</p>
+            <p>I'm Based in Round Rock, Texas. willing to relocate! </p>
+            <p className="mb-5">Thanks for stopping by and please reach out to say hello.</p>
             </Card.Text>
           </Card.Body>
         </Card>

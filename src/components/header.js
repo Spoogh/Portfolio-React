@@ -19,7 +19,7 @@ function Navi() {
               
             <Link to="/projects"><h2 className ="d-inline-block align-top noblue">Projects </h2> </Link>
             
-            <Link to = "/resume">
+            <Link to = "/contact">
               <h2 className ="d-inline-block align-top m-20 noblue" > Contact </h2>
             </Link>
           
