@@ -1,8 +1,9 @@
 import React from 'react';
 import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
-import Row from 'react-bootstrap/Row';
 import '../index.css';
+// import Row from 'react-bootstrap/Row';
+
 const path = process.env.REACT_APP_FOR_PATH;
 
 
