@@ -1,12 +1,12 @@
-import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
+import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import React from 'react';
 import Row from 'react-bootstrap/Row';
-import logo from '../assets/images/goonblin.png'
-import Me from '../assets/images/ME.png'
-import Container from 'react-bootstrap/Container';
 import Aboutme from './aboutme';
+import Me from '../assets/images/ME.png'
+// import Button from 'react-bootstrap/Button';
+// import Card from 'react-bootstrap/Card';
+// import logo from '../assets/images/goonblin.png'
 
 const Picandbio = () => {
   return (

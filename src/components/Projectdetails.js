@@ -1,17 +1,17 @@
 import React from 'react';
 import ProjCard from './Projectcard';
-import gobline from '../assets/images/goonblin.png';
 import '../index.css';
-import Col from 'react-bootstrap/Col';
+import TeamGen from '../assets/images/TeamGenerator.png';
 import Row from 'react-bootstrap/Row';
 import Container from 'react-bootstrap/Container';
-const path = process.env.REACT_APP_FOR_PATH;
-
-import RedwoodGif from '../assets/images/Redwood.gif';
-import RedwoodStatic from '../assets/images/RedwoodStatic.png';
-import Garden2 from '../assets/images/Garden2.gif';
-import TeamGen from '../assets/images/TeamGenerator.png'; 
 import ecommGif from '../assets/images/ecommercegif.gif';
+import Garden2 from '../assets/images/Garden2.gif';
+import RedwoodGif from '../assets/images/Redwood.gif';
+// import RedwoodStatic from '../assets/images/RedwoodStatic.png';
+// import Col from 'react-bootstrap/Col';
+// const path = process.env.REACT_APP_FOR_PATH;
+ // import gobline from '../assets/images/goonblin.png';
+
 
 
 const goblin = {
