@@ -3,7 +3,7 @@ import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import '../index.css';
-
+const path = process.env.REACT_APP_FOR_PATH;
 
 
 function ProjCard(props) {

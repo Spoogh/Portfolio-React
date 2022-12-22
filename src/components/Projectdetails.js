@@ -5,7 +5,7 @@ import '../index.css';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import Container from 'react-bootstrap/Container';
-
+const path = process.env.REACT_APP_FOR_PATH;
 
 import RedwoodGif from '../assets/images/Redwood.gif';
 import RedwoodStatic from '../assets/images/RedwoodStatic.png';
