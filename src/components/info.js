@@ -12,7 +12,7 @@ const Picandbio = () => {
   return (
     <Container >
     <Row bg="dark" variant="dark" >
-        <Col xs={5}><img  width= "800" src={Me}></img></Col>
+        <Col xs={5}><img  width= "800" src={Me} alt="picture of me"></img></Col>
         <Col xs={5}><Aboutme ></Aboutme> </Col>
         
       </Row>
